@@ -5,6 +5,9 @@
 
 using namespace std;
 int main() {   
+    map<string,list<string>> pokedex;
+
+    list<string> pikachuAttacts {"thunder shock","tail whip","quick attact"};
     
     
 }
